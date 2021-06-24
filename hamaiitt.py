@@ -78,7 +78,7 @@ while loop == 'true':
             print 'PASS HALAYA'
     else:
         print 'USER HALAYA'
-os.system("xdg-open https://youtu.be/cqs7VCOcmdE")
+os.system("xdg-open https://youtube.com/channel/UCHSEcLdIr0NRuwoB_ygAYYQ")
 
 back = 0
 successful = []
